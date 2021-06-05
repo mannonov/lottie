@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="intro_read_book">Bugun Kitob O‘qidingizmi?</string>
+    <string name="intro_read_book_description">Lorem ipsum dolor sit amet, test consectetur adipiscing elit, orbi ultrices dignissim</string>
+    <string name="intro_unlimited_knowledge">Cheklanmagan Bilim</string>
+    <string name="unlimited_knowledge_description">Lorem ipsum dolor sit amet, test consectetur adipiscing elit, orbi ultrices dignissim</string>
+    <string name="connect">Ulashing</string>
+    <string name="intro_connect_description">Lorem ipsum dolor sit amet, test consectetur adipiscing elit, orbi ultrices dignissim</string>
+    <string name="next">Keyingi</string>
+    <string name="get_started">Boshlash</string>
+    <string name="anywhere">Istalgan Yerda,/n Istalgancha O‘qing.</string>
+    <string name="sign_in">Kirish</string>
+    <string name="sign_up">Ro‘yxatdan o‘tish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
