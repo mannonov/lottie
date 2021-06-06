@@ -37,21 +37,21 @@ class IntroActivity : AppCompatActivity() {
             ScreenItem(
                 getString(R.string.intro_read_book),
                 getString(R.string.intro_read_book_description),
-                "intro1.json"
+                R.raw.intro1
             )
         )
         mList.add(
             ScreenItem(
                 getString(R.string.intro_unlimited_knowledge),
                 getString(R.string.unlimited_knowledge_description),
-                "intro2.json"
+                R.raw.intro2
             )
         )
         mList.add(
             ScreenItem(
                 getString(R.string.connect),
                 getString(R.string.unlimited_knowledge_description),
-                "intro3.json"
+                R.raw.intro3
             )
         )
         screenPager = findViewById(R.id.screen_viewpager)
